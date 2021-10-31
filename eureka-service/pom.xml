@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.basry</groupId>
-    <artifactId>store-eureka-service</artifactId>
+    <artifactId>eureka-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>store-eureka-service</name>
-    <description>store-eureka-service</description>
+    <name>eureka-service</name>
+    <description>eureka-service</description>
     <properties>
         <java.version>1.8</java.version>
         <spring-cloud.version>2020.0.4</spring-cloud.version>

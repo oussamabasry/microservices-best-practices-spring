@@ -578,3 +578,8 @@ public class StoreEurekaServiceApplication {
 
 }
 ```
+# Documentation
+## Customer Documentation
+![Customer documentation ](./images/customerDoc.png)
+## Invoice Documentation
+![Customer documentation ](./images/billingDoc.png)
